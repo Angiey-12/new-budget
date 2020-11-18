@@ -1,0 +1,25 @@
+* {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+.el-menu-item.is-active {
+  color: #2b90d9;
+  border-left: #2b90d9 5px solid;
+}
+.el-header {
+  background-color: #f7f8f9;
+  line-height: 60px;
+}
+h1 {
+  color: #7f7f7f;
+  margin: 10px 0;
+}
+h2 {
+  color: #7f7f7f;
+}
+p {
+  color: #7f7f7f;
+}
